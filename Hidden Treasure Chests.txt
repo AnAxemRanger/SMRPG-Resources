@@ -1,0 +1,40 @@
+Super Mario RPG
+Hidden Treasure Chest Locations
+[ ]Mushroom Kingdom Castle, entrance hall, ledge above door
+[ ]Mushroom Kingdom, Shop, basement 
+[ ]Mushroom Kingdom, Shop, basement 
+[ ]Bandit's Way, area 2, jump off of second red flower
+[ ]Rose Town, item shop
+[ ]Rose Town, 2nd floor of treasure guy's house
+[ ]Forest Maze, area 1
+[ ]Forest Maze, above ground area after the first underground section-Forest Maze, 7 tree trunk area, tree trunk i 1st row, right side, underground
+[ ]Forest Maze, 7 tree trunk area, tree trunk in 2nd row, left side, underground
+[ ]Forest Maze, 7 tree trunk area, lone tree trunk, underground
+[ ]Forest Maze, area with save point
+[ ]Pipe Vault, long passageway with a frog coin
+[ ]Pipe Vault, long passageway with a frog coin
+[ ]Yo'ster Isle, area with save point and pipe
+[ ]Booster Pass, area 1, left side above bush
+[ ]Booster Pass, up the cliff ledges right before exit to area 2
+[ ]Booster Tower, room with stairs and continuously spawning spookums
+[ ]Booster Tower, room with parachuting spookums, lower ledge
+[ ]Booster Tower, room before curtain game, bottom corner
+[ ]Booster Tower, room before curtain game, on top of visible chest
+[ ]Marrymore, Inn, regular bedroom
+[ ]Sunken Ship, room with Fake Mario
+[ ]Land's End, area 1
+[ ]Land's End, area 2, top of rock formation (need to make hidden platform appear)	
+[ ]Land's End, area 3 (grassy area with bees), hidden between two blue flowers
+[ ]Land's End, hidden underground area, room with the dogs
+[ ]Belome Temple, Room with two visible chests
+[ ]Belome Temple, Room with two visible chests
+[ ]Monstro Town, area before exit to world map
+[ ]Bean Valley, in area 1 take the right pipe.  Right side of the next area.
+[ ]Bean Valley, 5 pipe room, bottom right pipe
+[ ]Bean Valley, 5 pipe room, right-most pipe
+[ ]Nimbus Land, Item shop, above stacked boxes
+[ ]Nimbus Castle, stairway room with a Jawful guarding the next room, above Jawful
+[ ]Nimbus Castle, same room as above, invisible path bottom-left of Jawful
+[ ]Nimbus Castle, upper portion of room after Birdo, above visible chest
+[ ]Nimbus Castle, after beating Valentina, big room where the first locked door was
+[ ]Factory, small room with only a save point

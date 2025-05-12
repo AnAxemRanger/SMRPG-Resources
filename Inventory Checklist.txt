@@ -1,0 +1,42 @@
+Super Mario RPG
+Unique Items Obtainable Only Once
+[ ]Item Inventory
+	[ ]Sheep Attack (From Mystery Egg to Lamb's Lure to Sheep Attack)
+	[ ]Lucky Jewel
+	[ ]Wallet (turned in, both prizes claimed)
+	[ ]See Ya!
+	[ ]EarlierTimes
+	[ ]Star Egg from Grate Guy
+	[ ]Bright Card from Knife Guy
+	[ ]Goodie Bag
+[ ]Equipment
+	[ ]Hammer (From Hammer Bros)
+	[ ]Noknok shell
+	[ ]Masher
+	[ ]Ultra Hammer
+	[ ]Lazy Shell (weapon)
+	[ ]Froggie Stick
+	[ ]Sonic Cymbals
+	[ ]Star Gun
+	[ ]Chomp
+	[ ]Drill Claw
+	[ ]Slap Glove
+	[ ]Super Slap
+	[ ]Frying Pan
+	[ ]Polka Dress
+	[ ]Super Suit	
+	[ ]Lazy Shell (Armor)
+	[ ]Safety Ring
+	[ ]Safety Badge
+	[ ]Rare Scarf
+	[ ]Jinx Belt
+	[ ]Quartz Charm
+	[ ]Attack Scarf
+	[ ]Ghost Medal
+	[ ]Troopa Pin
+	[ ]Coin Trick
+	[ ]EXP Booster
+	[ ]Scrooge Ring
+	[ ]Feather
+	[ ]Amulet
+	[ ]Signal Ring
