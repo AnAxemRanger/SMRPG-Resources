@@ -7,7 +7,8 @@ Hidden Treasure Chest Locations
 [ ]Rose Town, item shop
 [ ]Rose Town, 2nd floor of treasure guy's house
 [ ]Forest Maze, area 1
-[ ]Forest Maze, above ground area after the first underground section-Forest Maze, 7 tree trunk area, tree trunk i 1st row, right side, underground
+[ ]Forest Maze, above ground area after the first underground section
+[ ]Forest Maze, 7 tree trunk area, tree trunk i 1st row, right side, underground
 [ ]Forest Maze, 7 tree trunk area, tree trunk in 2nd row, left side, underground
 [ ]Forest Maze, 7 tree trunk area, lone tree trunk, underground
 [ ]Forest Maze, area with save point
