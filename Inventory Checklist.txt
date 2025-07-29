@@ -11,7 +11,6 @@ Unique Items Obtainable Only Once
 	[ ]Goodie Bag
 [ ]Equipment
 	[ ]Hammer (From Hammer Bros)
-	[ ]Noknok shell
 	[ ]Masher
 	[ ]Ultra Hammer
 	[ ]Lazy Shell (weapon)
